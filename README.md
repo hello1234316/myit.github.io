@@ -4,7 +4,7 @@
 
 # myit
 a blog website for my discord group : https://discord.gg/myit <br />
-https://hello1234316.github.io/myit/
+https://my-it-discord.github.io/myit/
 
 >Fonts: <br>
 >王漢宗特黑體繁: https://wordshub.github.io/free-font/font.html?WangHanZongTeHeiTiFan_Regular <br>
